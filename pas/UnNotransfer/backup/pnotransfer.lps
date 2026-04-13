@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="pnotransfer.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="60"/>
+        <CursorPos X="94" Y="70"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../laz224/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1012"/>
+        <CursorPos X="14" Y="1020"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../laz224/fpcsrc/packages/hash/src/md5.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="83"/>
+        <CursorPos X="31" Y="79"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../../laz/fpcsrc/packages/hash/src/md5.pp"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="138"/>
+        <CursorPos X="20" Y="151"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../../laz/fpcsrc/rtl/objpas/objpas.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="27"/>
+        <CursorPos X="26" Y="35"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../../laz/fpcsrc/rtl/objpas/sysutils/filutilh.inc"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="144"/>
+        <CursorPos X="14" Y="151"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../../laz/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="60"/>
+        <CursorPos X="3" Y="72"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="87" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="88" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="89" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="90" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="91" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="92" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="94" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="95" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="96" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="85" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="86" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="87" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="88" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="89" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="90" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="91" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="92" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="82" Column="23" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="95" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="96" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="85" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="86" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="87" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="88" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="89" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="90" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="91" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="92" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="84" Column="51" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="pnotransfer.lpr"/>
+        <Caret Line="85" Column="46" TopLine="77"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default">
+        <Mode Name="default">
+          <local>
+            <CommandLineParams Value="-i ../../../Dream_Diary_1_-_the_six-sided_room.gbc.nt -o salida"/>
+          </local>
+        </Mode>
+      </Modes>
+    </RunParams>
+    <HistoryLists>
+      <List Name="CommandLineParameters" Count="1">
+        <Item1 Value="-i ../../../Dream_Diary_1_-_the_six-sided_room.gbc.nt -o salida"/>
+      </List>
+    </HistoryLists>
+  </ProjectSession>
+</CONFIG>
