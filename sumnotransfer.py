@@ -7,6 +7,8 @@ def byte2sum(NA, N):
         return (NA,'-',(NA - N))
     if NA < N:
         return ((N - NA), '+',NA)
+    if N == 0:
+        return (1,'-',1)
     if NA == N:
         return (N - 1, '+',1)
 
